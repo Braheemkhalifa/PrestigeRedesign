@@ -1,0 +1,15 @@
+{
+  "name": "prestige",
+  "version": "1.0.0",
+  "description": "responsive prestige redesign by braheem khalifa",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass  -w scss/ -o dist/css/  --recursive"
+  },
+  "author": "braheem khalifa",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.13.1",
+    "sass": "^1.26.3"
+  }
+}
